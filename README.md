@@ -35,8 +35,7 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |  
-
-
+| Molly Robertson   | Section 002      | mqr5560          | <https://mqr5560.github.io/mqr5560-STAT184.2/>    |  
 <br>
 
 # Integration of RStudio with Git
